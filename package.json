@@ -1,0 +1,9 @@
+{
+  
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "image-type": "^5.2.0",
+    "pdf-lib": "^1.17.1"
+  }
+  
+}
